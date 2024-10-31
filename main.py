@@ -9,7 +9,7 @@ pygame.init()
 pygame.display.set_caption("playformer")
 
 BG_COLOR = (255, 255, 255)
-WIDTH, HEIGHT = 1000, 800
+WIDTH, HEIGHT = 800, 200
 
 FPS = 60
 PLAYER_VEL = 5
